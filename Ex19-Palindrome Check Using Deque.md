@@ -1,12 +1,5 @@
 # Ex19 Palindrome Check Using Deque
-## AIM:
-To design a program that checks whether a given message is a palindrome by removing all non-alphanumeric characters, converting all characters to lowercase, and using a deque data structure for comparison.
 
-## Algorithm
-1. 
-2. # Ex19 Palindrome Check Using Deque
-
-## DATE:
 ## AIM:
 To design a program that checks whether a given message is a palindrome by removing all non-alphanumeric characters, converting all characters to lowercase, and using a deque data structure for comparison.
 
